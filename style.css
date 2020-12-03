@@ -1,0 +1,40 @@
+body{
+    background-color: blue;
+}
+
+
+img{
+    width: 150px;
+
+    
+}
+
+
+.parent div{
+    width: 280px;
+    height: 280px;
+    
+    display: inline-block;
+}
+
+
+.carre1 {
+    background-color: green;
+}
+
+.carre2{
+    background-color: pink; 
+}
+
+
+.carre3{
+    background-color: orange
+}
+
+.carre4{
+    background-color: white;
+}
+
+.menu li{
+    display: inline-block;
+}

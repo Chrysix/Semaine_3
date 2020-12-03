@@ -1,0 +1,63 @@
+.menu{
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-inline: 10px;
+    
+}
+
+.title{
+    background-color: rgb(107, 45, 4);
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.background{
+    
+        background: url("photo-1575862924838-c166e3814df7.png") no-repeat center center fixed;
+        background-size: cover;
+        height: 600px;
+    }
+
+
+img{
+    float: left;
+    width: 250px;
+
+}
+
+div{
+    background-color: white;
+}
+
+
+
+.img2{
+    float: right;
+    width: 200px;
+}
+
+header li {
+    float: right;
+    font-size: 1.2em;
+    list-style-type: none;
+    
+}
+
+.titre{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    float: left;
+    font-size: 2em;
+}
+
+nav {
+    background-color: white;
+    overflow: hidden;
+    
+    width: 100%;
+}
+
+

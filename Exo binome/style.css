@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    font-weight: bold;
+}
+
+.hightlight{
+    background-color: yellow;
+    font-style: italic;
+}
+
+#main-menu{
+    background-color: black;
+    border-radius: 10px;
+}
